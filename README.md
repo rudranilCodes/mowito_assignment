@@ -7,11 +7,12 @@ System requirements:
 
     OS: Ubuntu 22.04 (Jammy Jellyfish)
     ROS 2 Version: Humble Hawksbill
-    Python Version: Python3 and above (unless packages are depricated)
+    Python Version: Python3
     OpenCV Version: 4.7.0
 
 Cloning Instructions:
 
 To clone the repository, navigate to an empty ROS 2 workspace and run the following terminal command:
+
     git clone https://github.com/rudranilCodes/mowito_assignment.git
 
