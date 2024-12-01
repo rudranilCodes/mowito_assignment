@@ -13,7 +13,7 @@ System requirements:
 
 Cloning Instructions:
 
-To clone the repository, navigate to an empty ROS 2 workspace and run the following terminal command:
+To clone the repository, navigate to your home directory and run the following terminal command:
 
     git clone https://github.com/rudranilCodes/mowito_assignment.git
 
