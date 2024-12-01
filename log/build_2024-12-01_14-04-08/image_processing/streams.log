@@ -1,0 +1,152 @@
+[0.021s] Invoking command in '/home/rudranil/mowito_ws/build/image_processing': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rudranil/lb_ws/install/ur5_control:/home/rudranil/oddity_rover/install/canopen_utils:/home/rudranil/ros2_ws/install/mini_bot_description:/opt/ros/humble /usr/bin/cmake --build /home/rudranil/mowito_ws/build/image_processing -- -j12 -l12
+[0.073s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.275s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.287s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.296s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.299s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.345s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.772s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.063s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.439s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.475s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.510s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.510s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.511s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.549s] -- Configuring done
+[1.590s] -- Generating done
+[1.605s] -- Build files have been written to: /home/rudranil/mowito_ws/build/image_processing
+[1.653s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_generator_c[0m
+[1.674s] [  3%] Built target image_processing__cpp
+[1.675s] [ 12%] Built target image_processing__rosidl_generator_c
+[1.693s] [ 12%] Built target ament_cmake_python_symlink_image_processing
+[1.695s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_cpp[0m
+[1.695s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_fastrtps_cpp[0m
+[1.698s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_c[0m
+[1.699s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_introspection_c[0m
+[1.699s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_introspection_cpp[0m
+[1.699s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_fastrtps_c[0m
+[1.721s] [ 32%] Built target image_processing__rosidl_typesupport_c
+[1.721s] [ 32%] Built target image_processing__rosidl_typesupport_introspection_c
+[1.724s] [ 51%] Built target image_processing__rosidl_typesupport_cpp
+[1.724s] [ 51%] Built target image_processing__rosidl_typesupport_fastrtps_cpp
+[1.726s] [ 61%] Built target image_processing__rosidl_typesupport_introspection_cpp
+[1.730s] [ 70%] Built target image_processing__rosidl_typesupport_fastrtps_c
+[1.772s] [ 70%] Built target image_processing
+[1.818s] [ 74%] Built target image_processing__py
+[1.839s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_generator_py[0m
+[1.866s] [ 80%] Built target image_processing__rosidl_generator_py
+[1.887s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_introspection_c__pyext[0m
+[1.887s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.890s] [35m[1mConsolidate compiler generated dependencies of target image_processing__rosidl_typesupport_c__pyext[0m
+[1.912s] [ 87%] Built target image_processing__rosidl_typesupport_fastrtps_c__pyext
+[1.913s] [ 93%] Built target image_processing__rosidl_typesupport_introspection_c__pyext
+[1.916s] [100%] Built target image_processing__rosidl_typesupport_c__pyext
+[2.093s] running egg_info
+[2.093s] writing image_processing.egg-info/PKG-INFO
+[2.093s] writing dependency_links to image_processing.egg-info/dependency_links.txt
+[2.094s] writing top-level names to image_processing.egg-info/top_level.txt
+[2.096s] reading manifest file 'image_processing.egg-info/SOURCES.txt'
+[2.097s] writing manifest file 'image_processing.egg-info/SOURCES.txt'
+[2.141s] [100%] Built target ament_cmake_python_build_image_processing_egg
+[2.164s] Invoked command in '/home/rudranil/mowito_ws/build/image_processing' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rudranil/lb_ws/install/ur5_control:/home/rudranil/oddity_rover/install/canopen_utils:/home/rudranil/ros2_ws/install/mini_bot_description:/opt/ros/humble /usr/bin/cmake --build /home/rudranil/mowito_ws/build/image_processing -- -j12 -l12
+[2.184s] Invoking command in '/home/rudranil/mowito_ws/build/image_processing': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rudranil/lb_ws/install/ur5_control:/home/rudranil/oddity_rover/install/canopen_utils:/home/rudranil/ros2_ws/install/mini_bot_description:/opt/ros/humble /usr/bin/cmake --install /home/rudranil/mowito_ws/build/image_processing
+[2.198s] -- Install configuration: ""
+[2.198s] -- Execute custom install script
+[2.199s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/ament_index/resource_index/rosidl_interfaces/image_processing
+[2.199s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/msg/rosidl_generator_c__visibility_control.h
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/conversion.h
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__functions.h
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__struct.h
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__type_support.h
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/library_path.sh
+[2.200s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/library_path.dsv
+[2.201s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.201s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__rosidl_typesupport_fastrtps_c.h
+[2.202s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.202s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__rosidl_typesupport_introspection_c.h
+[2.202s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/conversion.hpp
+[2.202s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__builder.hpp
+[2.202s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__struct.hpp
+[2.203s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__traits.hpp
+[2.203s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.203s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__rosidl_typesupport_fastrtps_cpp.hpp
+[2.204s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/include/image_processing/image_processing/srv/detail/conversion__rosidl_typesupport_introspection_cpp.hpp
+[2.204s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/pythonpath.sh
+[2.204s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/pythonpath.dsv
+[2.205s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing-0.0.0-py3.10.egg-info/PKG-INFO
+[2.205s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.205s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.205s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing-0.0.0-py3.10.egg-info/top_level.txt
+[2.206s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/__init__.py
+[2.206s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/_image_processing_s.ep.rosidl_typesupport_c.c
+[2.206s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/_image_processing_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.206s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/_image_processing_s.ep.rosidl_typesupport_introspection_c.c
+[2.207s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.207s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.207s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.207s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/libimage_processing__rosidl_generator_py.so
+[2.207s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/srv/__init__.py
+[2.208s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/srv/_conversion.py
+[2.208s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/srv/_conversion_s.c
+[2.208s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.208s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.209s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/image_processing_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.209s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/srv/Conversion.idl
+[2.209s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/srv/Conversion.srv
+[2.209s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/srv/Conversion_Request.msg
+[2.210s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/srv/Conversion_Response.msg
+[2.210s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing//srv/Conversion.srv
+[2.210s] -- Symlinking: /home/rudranil/mowito_ws/install/image_processing/share/image_processing//scripts/__pycache__/abc.cpython-310.pyc
+[2.227s] -- Symlinking: /home/rudranil/mowito_ws/install/image_processing/share/image_processing//scripts/image_conversion.py
+[2.246s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/lib/image_processing/image_conversion.py
+[2.246s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/ament_index/resource_index/package_run_dependencies/image_processing
+[2.246s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/ament_index/resource_index/parent_prefix_path/image_processing
+[2.247s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/ament_prefix_path.sh
+[2.247s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/ament_prefix_path.dsv
+[2.247s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/path.sh
+[2.247s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/environment/path.dsv
+[2.247s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/local_setup.bash
+[2.248s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/local_setup.sh
+[2.248s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/local_setup.zsh
+[2.248s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/local_setup.dsv
+[2.248s] -- Symlinking: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/package.dsv
+[2.266s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/ament_index/resource_index/packages/image_processing
+[2.266s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/rosidl_cmake-extras.cmake
+[2.266s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.267s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/ament_cmake_export_libraries-extras.cmake
+[2.267s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/ament_cmake_export_targets-extras.cmake
+[2.267s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.267s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.268s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.268s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processingConfig.cmake
+[2.268s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processingConfig-version.cmake
+[2.268s] -- Up-to-date symlink: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/package.xml
+[2.268s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_generator_c.so
+[2.268s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_fastrtps_c.so
+[2.269s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_introspection_c.so
+[2.269s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_c.so
+[2.270s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_fastrtps_cpp.so
+[2.270s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_introspection_cpp.so
+[2.271s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_typesupport_cpp.so
+[2.322s] Listing '/home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing'...
+[2.322s] Compiling '/home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/__init__.py'...
+[2.322s] Listing '/home/rudranil/mowito_ws/install/image_processing/local/lib/python3.10/dist-packages/image_processing/srv'...
+[2.329s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/lib/libimage_processing__rosidl_generator_py.so
+[2.329s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_generator_cExport.cmake
+[2.330s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_generator_cExport-noconfig.cmake
+[2.330s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_typesupport_fastrtps_cExport.cmake
+[2.330s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_introspection_cExport.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_cExport.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_cExport-noconfig.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_generator_cppExport.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.331s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_introspection_cppExport.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_cppExport.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/image_processing__rosidl_typesupport_cppExport-noconfig.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_generator_pyExport.cmake
+[2.332s] -- Up-to-date: /home/rudranil/mowito_ws/install/image_processing/share/image_processing/cmake/export_image_processing__rosidl_generator_pyExport-noconfig.cmake
+[2.335s] Invoked command in '/home/rudranil/mowito_ws/build/image_processing' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rudranil/lb_ws/install/ur5_control:/home/rudranil/oddity_rover/install/canopen_utils:/home/rudranil/ros2_ws/install/mini_bot_description:/opt/ros/humble /usr/bin/cmake --install /home/rudranil/mowito_ws/build/image_processing

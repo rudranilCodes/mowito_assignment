@@ -1,0 +1,1 @@
+/home/rudranil/mowito_ws/build/image_processing/rosidl_generator_py/image_processing/srv/__init__.py

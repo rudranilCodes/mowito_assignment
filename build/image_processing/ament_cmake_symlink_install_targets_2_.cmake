@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rudranil/mowito_ws/build/image_processing/rosidl_generator_py/image_processing/image_processing_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "image_processing__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/image_processing")

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from image_processing/srv/Conversion.srv
+// generated code does not contain a copyright notice
+
+
+module image_processing {
+  module srv {
+    struct Conversion_Request {
+      boolean conversion_mode;
+    };
+    struct Conversion_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

@@ -1,0 +1,1 @@
+/home/rudranil/mowito_ws/build/image_processing/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,19 @@
+{
+  "package_name": "image_processing",
+  "output_dir": "/home/rudranil/mowito_ws/build/image_processing/rosidl_typesupport_introspection_c/image_processing",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/rudranil/mowito_ws/build/image_processing/rosidl_adapter/image_processing:srv/Conversion.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/rudranil/mowito_ws/build/image_processing/rosidl_adapter/image_processing/srv/Conversion.idl"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "image_processing__py",
+		"source" : "/home/rudranil/mowito_ws/build/image_processing/image_processing__py"
+	}
+}
