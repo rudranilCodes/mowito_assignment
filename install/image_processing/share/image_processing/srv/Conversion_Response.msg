@@ -1,1 +1,0 @@
-/home/rudranil/mowito_ws/build/image_processing/rosidl_cmake/srv/Conversion_Response.msg

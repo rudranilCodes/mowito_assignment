@@ -1,4 +1,0 @@
-srv/Conversion.idl
-srv/Conversion.srv
-srv/Conversion_Request.msg
-srv/Conversion_Response.msg

@@ -1,1 +1,0 @@
-/home/rudranil/mowito_ws/src/image_processing/scripts/image_conversion.py

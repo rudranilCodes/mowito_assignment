@@ -1,1 +1,0 @@
-/home/rudranil/mowito_ws/build/image_processing/rosidl_cmake/rosidl_cmake-extras.cmake
