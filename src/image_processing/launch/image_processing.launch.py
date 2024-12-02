@@ -10,9 +10,12 @@ def generate_launch_description():
 
     ld = LaunchDescription()
 
-    DeclareLaunchArgument(
+    conversion_mode = LaunchConfiguration('conversion_mode')
+
+
+    conversion_mode_arg = DeclareLaunchArgument(
         'conversion_mode',
-        default_value=None
+        default_value= 'None'
     )
 
     camera_node = Node(
@@ -28,21 +31,20 @@ def generate_launch_description():
     )
 
 
-    conversion_mode = LaunchConfiguration('conversion_mode')
 
-    ld.add_action(ExecuteProcess(
-        cmd=[[
-            FindExecutable(name='ros2'),
-            " service call ",
-            "/stream_converter ",
-            "image_processing/srv/Conversion ",
-            f'"{{conversion_mode: {conversion_mode}}}"',
-        ]],
+    # ExecuteProcess with properly substituted conversion_mode
+    service_call = ExecuteProcess(
+        cmd=[
+            'ros2 service call',
+            '/stream_converter',
+            'image_processing/srv/Conversion',
+            '"{conversion_mode:', conversion_mode, '}"'
+        ],
         shell=True
-        )
     )
 
-
+    ld.add_action(conversion_mode_arg)
     ld.add_action(image_processing_node)
     ld.add_action(camera_node)
+    ld.add_action(service_call)
     return ld
